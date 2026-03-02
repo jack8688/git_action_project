@@ -4,5 +4,5 @@ jobs:
   hello:
   runs-on: ubuntu-latest
   steps:
-    -name: Hello Step
+    - name: Hello Step
      run: echo "hello swaroop welcome to gha"
